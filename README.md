@@ -1,6 +1,6 @@
 # Python Project for Data Engineering
 
-This is a final project in "Python Project for Data Engineering" [title](https://www.coursera.org/learn/python-project-for-data-engineering) course offerred by IBM in Coursera. The course is really a short project that involves applying what you learned in python to do the ff:
+This is a final project in ["Python Project for Data Engineering"](https://www.coursera.org/learn/python-project-for-data-engineering) course offerred by IBM in Coursera. The course is really a short project that involves applying what you learned in python to do the ff:
 
 1. Collect data using APIs
 2. Collect data using webscraping.
