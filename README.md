@@ -11,5 +11,5 @@ This is a final project in ["Python Project for Data Engineering"](https://www.c
 7. Use the built in logging module.
 8. Save the transformed data in a ready-to-load format which data engineers can use to load the data.
 
-This repo serves as my code for the final project where I have to aplpy the concepts in the previous exercise. Essentially its combining different file types, transforming it into the right currency and finally loading the final output into a CSV format.
+This repo serves as my code for the final project where I have to apply the concepts in the previous exercises.
 
